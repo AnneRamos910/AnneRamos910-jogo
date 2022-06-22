@@ -2,7 +2,7 @@
 
 Jogo Da Memória
 
-Tema: Halo (Game/Serie)
+Tema: Halo 
 
 
 Tecnologia: HTML, CSS & JAVASCRIPT
